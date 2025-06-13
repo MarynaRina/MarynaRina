@@ -33,13 +33,6 @@ Web platform for managing a confectionery network with multiple roles (admin, ac
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarynRina&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarynRina&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Get in Touch
 
 - 📧 Email: marynapl02@gmail.com  
