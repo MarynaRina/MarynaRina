@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maryna
 
-Web & Mobile Developer focused on clean architecture, modern UI, and smooth UX.
+Mobile & Web Developer focused on clean architecture, modern UI, and smooth UX.
 
 ## 🚀 Tech Stack
 
